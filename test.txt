@@ -1,2 +1,4 @@
 Hello this is the first test
 file in my github repository:
+
+I have added a new line here! (this is in the new branch)
