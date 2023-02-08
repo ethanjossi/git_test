@@ -1,0 +1,3 @@
+THIS IS THE README FILE FOR MY FIRST GITHUB REPOSITORY
+Author: Ethan Jossi
+This is really neat!
